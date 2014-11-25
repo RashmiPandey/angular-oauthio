@@ -1,6 +1,8 @@
 {
   "name": "angular-oauth.io",
-  "version": "0.0.1",
+  "main": ["dist/angular-oauth.io.js"],
+  "ignore": ["src", "test"],
+  "version": "0.0.2",
   "dependencies": {
   },
   "devDependencies": {
